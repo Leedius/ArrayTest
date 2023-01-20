@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6df41553-8a5d-4683-85e2-3df5376f1c21" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/이차원배열/이차원배열1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/이차원배열/이차원배열2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array/Array01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/Array01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array/Array02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/Array02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array/Array03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/Array03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array/Array04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/Array04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array/ArrayImportant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ArrayImportant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array/Ex1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/Ex1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/array/lk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/lk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex1/Ex1_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex1/Ex1_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex2/Ex2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex2/Ex2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex2/Ex2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex2/Ex2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex2/Ex2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ex2/Ex2_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ex2/Ex2_8.java" afterDir="false" />
-    </list>
+    <list default="true" id="6df41553-8a5d-4683-85e2-3df5376f1c21" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +46,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674174762958</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/com/array/Array01.java&#10;#&#9;src/com/array/Array02.java&#10;#&#9;src/com/array/Array03.java&#10;#&#9;src/com/array/Array04.java&#10;#&#9;src/com/array/ArrayImportant.java&#10;#&#9;src/com/array/Ex1_1.java&#10;#&#9;src/com/array/lk.java&#10;#&#9;src/com/ex1/Ex1_1.java&#10;#&#9;src/com/ex1/Ex1_10.java&#10;#&#9;src/com/ex1/Ex1_11.java&#10;#&#9;src/com/ex1/Ex1_12.java&#10;#&#9;src/com/ex1/Ex1_2.java&#10;#&#9;src/com/ex1/Ex1_3.java&#10;#&#9;src/com/ex1/Ex1_4.java&#10;#&#9;src/com/ex1/Ex1_5.java&#10;#&#9;src/com/ex1/Ex1_6.java&#10;#&#9;src/com/ex1/Ex1_7.java&#10;#&#9;src/com/ex1/Ex1_8.java&#10;#&#9;src/com/ex1/Ex1_9.java&#10;#&#9;src/com/ex2/Ex2_1.java&#10;#&#9;src/com/ex2/Ex2_2.java&#10;#&#9;src/com/ex2/Ex2_5.java&#10;#&#9;src/com/ex2/Ex2_6.java&#10;#&#9;src/com/ex2/Ex2_7.java&#10;#&#9;src/com/ex2/Ex2_8.java">
+      <created>1674615085023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674615085023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/com/array/Array01.java&#10;#&#9;src/com/array/Array02.java&#10;#&#9;src/com/array/Array03.java&#10;#&#9;src/com/array/Array04.java&#10;#&#9;src/com/array/ArrayImportant.java&#10;#&#9;src/com/array/Ex1_1.java&#10;#&#9;src/com/array/lk.java&#10;#&#9;src/com/ex1/Ex1_1.java&#10;#&#9;src/com/ex1/Ex1_10.java&#10;#&#9;src/com/ex1/Ex1_11.java&#10;#&#9;src/com/ex1/Ex1_12.java&#10;#&#9;src/com/ex1/Ex1_2.java&#10;#&#9;src/com/ex1/Ex1_3.java&#10;#&#9;src/com/ex1/Ex1_4.java&#10;#&#9;src/com/ex1/Ex1_5.java&#10;#&#9;src/com/ex1/Ex1_6.java&#10;#&#9;src/com/ex1/Ex1_7.java&#10;#&#9;src/com/ex1/Ex1_8.java&#10;#&#9;src/com/ex1/Ex1_9.java&#10;#&#9;src/com/ex2/Ex2_1.java&#10;#&#9;src/com/ex2/Ex2_2.java&#10;#&#9;src/com/ex2/Ex2_5.java&#10;#&#9;src/com/ex2/Ex2_6.java&#10;#&#9;src/com/ex2/Ex2_7.java&#10;#&#9;src/com/ex2/Ex2_8.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/com/array/Array01.java&#10;#&#9;src/com/array/Array02.java&#10;#&#9;src/com/array/Array03.java&#10;#&#9;src/com/array/Array04.java&#10;#&#9;src/com/array/ArrayImportant.java&#10;#&#9;src/com/array/Ex1_1.java&#10;#&#9;src/com/array/lk.java&#10;#&#9;src/com/ex1/Ex1_1.java&#10;#&#9;src/com/ex1/Ex1_10.java&#10;#&#9;src/com/ex1/Ex1_11.java&#10;#&#9;src/com/ex1/Ex1_12.java&#10;#&#9;src/com/ex1/Ex1_2.java&#10;#&#9;src/com/ex1/Ex1_3.java&#10;#&#9;src/com/ex1/Ex1_4.java&#10;#&#9;src/com/ex1/Ex1_5.java&#10;#&#9;src/com/ex1/Ex1_6.java&#10;#&#9;src/com/ex1/Ex1_7.java&#10;#&#9;src/com/ex1/Ex1_8.java&#10;#&#9;src/com/ex1/Ex1_9.java&#10;#&#9;src/com/ex2/Ex2_1.java&#10;#&#9;src/com/ex2/Ex2_2.java&#10;#&#9;src/com/ex2/Ex2_5.java&#10;#&#9;src/com/ex2/Ex2_6.java&#10;#&#9;src/com/ex2/Ex2_7.java&#10;#&#9;src/com/ex2/Ex2_8.java" />
   </component>
 </project>
