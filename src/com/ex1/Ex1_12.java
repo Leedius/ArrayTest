@@ -1,17 +1,14 @@
-//간단한 성적처리 시스템을 만들어보자. 국어, 영어, 수학점수를 입력받아
-//각과목에 대한 점수 및 총점,평 균을 출력하는 프로그램을 만들얼보자.
-//만약 키보드로 1 2 3 4 5를 입력했다면 배열의 요소에 각각 1 2 3 4 5가 저장되어야 한다.
-//출력을 통해 결과를 확인해 보아라.
+package com.ex;
 
-package com.ex1;
-
+import javax.security.auth.Subject;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex1_12 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-        int i,x;
+        int i, j, k, x;
         int sum=0;
         double avg=0;
         int[] subject;
@@ -32,17 +29,17 @@ public class Ex1_12 {
 
         System.out.println("==============================");
 
-        for(i=0; i<x; i++) {
-            System.out.print(subname[i]+"의 점수를 입력하세요 : ");
-            subscore[i]=sc.nextInt();
+        for(j=0; j<x; j++) {
+            System.out.print(subname[j]+"의 점수를 입력하세요 : ");
+            subscore[j]=sc.nextInt();
         }
 
         System.out.println("==============================");
 
-        for(i=0; i<x; i++){
-            sum+=subscore[i];
+        for(k=0; k<x; k++){
+            sum+=subscore[k];
         }
-        avg=sum/(double)i;
+        avg=sum/(double)k;
         System.out.println("각 과목에 대한 총점 : "+sum+"\n 각 과목에 대한 평균 : "+avg);
 
     }

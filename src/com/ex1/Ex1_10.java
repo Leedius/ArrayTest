@@ -2,7 +2,7 @@
 //만약 키보드로 1 2 3 4 5를 입력했다면 배열의 요소에 각각 1 2 3 4 5가 저장되어야 한다.
 //출력을 통해 결과를 확인해 보아라.
 
-package com.ex1;
+package com.ex;
 
 import java.util.Scanner;
 
@@ -19,7 +19,7 @@ public class Ex1_10 {
         arr = new int[x];
 
         System.out.println(x+"개의 수를 입력하세요!");
-        for(i=0; i<arr.length; i++){
+        for(i=0; i<x; i++){
             System.out.print((i+1)+"째의 수를 입력하세요 : ");
             arr[i]=sc.nextInt();
 
@@ -27,7 +27,7 @@ public class Ex1_10 {
 
         System.out.println("=================================");
 
-        for(j=0; j<arr.length; j++){
+        for(j=0; j<x; j++){
             System.out.println(arr[j]);
         }
 
