@@ -13,8 +13,7 @@ public class Ex1_12 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int i, j, k, x;
-        int sum = 0;
+        int i, x;
         double avg = 0;
         int[] subscore;
         String[] subname;
@@ -23,7 +22,7 @@ public class Ex1_12 {
         x = sc.nextInt();
 
 
-        subscore = new int[x];
+        subscore = new int[x+1];
         subname = new String[x];
 
         for (i = 0; i < subname.length; i++) {
@@ -34,25 +33,25 @@ public class Ex1_12 {
 
         System.out.println("==============================");
 
-        for (j = 0; j < subscore.length; j++) {
-                System.out.print(subname[j] + "의 점수를 입력하세요 : ");
-                subscore[j] = sc.nextInt();
-                while(subscore[j]>100||subscore[j]<0){
+        for (i = 0; i < subscore.length-1; i++) {
+                System.out.print(subname[i] + "의 점수를 입력하세요 : ");
+                subscore[i] = sc.nextInt();
+                while(subscore[i]>100||subscore[i]<0){
                     System.out.print("점수가 잘못입력되었습니다.\n다시입력해주세요 : ");
-                    subscore[j] = sc.nextInt();
+                    subscore[i] = sc.nextInt();
                 }
 
             }
 
             System.out.println("==============================");
 
-            for (k = 0; k < subscore.length; k++) {
-                sum += subscore[k];
-                System.out.println(subname[k]+"의 점수 : "+subscore[k]);
+        for (i = 0; i < subscore.length-1; i++) {
+            subscore[subscore.length-1] += subscore[i];
+            System.out.println(subname[i]+"의 점수 : "+subscore[i]);
             }
-            avg = sum / (double) k;
+            avg = (subscore[subscore.length-1]) / (double)(subscore.length-1);
 
-            System.out.println("각 과목에 대한 총점 : " + sum + "\n각 과목에 대한 평균 : " + avg);
+            System.out.println("각 과목에 대한 총점 : " + subscore[subscore.length-1] + "\n각 과목에 대한 평균 : " + avg);
 
         }
 }
