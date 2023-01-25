@@ -1,6 +1,7 @@
 //정수를 10개 저장할 수 이쓴ㄴ 배열을 생성하고 모든 요소의 값을 출력해보아라.
 
-package com.ex;
+package com.ex1;
+
 
 import java.util.Scanner;
 

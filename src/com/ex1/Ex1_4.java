@@ -1,4 +1,5 @@
-package com.ex;
+package com.ex1;
+
 
 public class Ex1_4 {
     public static void main(String[] args) {

@@ -1,6 +1,7 @@
 package com.array;
 
-public class Aarry03 {
+
+public class Array03 {
     public static void main(String[] args) {
         //배열의 값 읽기
         int[] arr1={1, 2, 3};

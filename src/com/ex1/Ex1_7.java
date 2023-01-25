@@ -1,6 +1,7 @@
 //정수를 10개 저장할 수 있는 배열을 생성하고 모든 요소에 3을 넣어라. 그리고 3이 잘 들어갔는지 출력하여 확인해보아라.
 
-package com.ex;
+package com.ex1;
+
 
 import java.util.Scanner;
 

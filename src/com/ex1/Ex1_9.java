@@ -1,6 +1,6 @@
 //1,5,7을 초기값으로 저장하고 있는 배열을 만들고, 배열의 모든 요소의 합을 출력해보아라.
 
-package com.ex;
+package com.ex1;
 
 import java.util.Scanner;
 
